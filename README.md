@@ -10,3 +10,4 @@ A collection of beginner-friendly Python projects.(100 days goal)
 -  **ln(1+x)**"USER DEFINED" -> print approx value of ln(1+x) using taylor series
 -  **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 -  **Coin Flip Simulation** - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.
+-  **.**
