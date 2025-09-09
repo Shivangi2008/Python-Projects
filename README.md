@@ -1,5 +1,5 @@
 # Python Projects 🚀
-A collection of beginner-friendly Python projects.(100 days goal)
+A collection of beginner-friendly Python projects.
 
 ## Projects
 - 🎲 **Dice Roller** → Generates a random dice roll.
