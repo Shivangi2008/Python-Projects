@@ -1,5 +1,5 @@
 # Python Projects 🚀
-A collection of beginner-friendly Python projects. for practice
+A collection of beginner-friendly Python projects. (for practice)
 
 ## Projects
 - 🎲 **Dice Roller** → Generates a random dice roll.
